@@ -29,7 +29,19 @@ Para garantizar un desarrollo colaborativo y efectivo, es importante seguir las 
 
 #Contribución
 
-¡Nos encantaría contar con tu contribución para este proyecto! Si estás interesado en participar, por favor, sigue las normas y pautas mencionadas anteriormente y comunícate con el equipo de desarrollo a través de nuestro canal de comunicación.
+¡Nos encantaría contar con tu contribución para este proyecto! Para comenzar, sigue los siguientes pasos:
+
+1-Clona el proyecto desde el repositorio principal utilizando el comando git clone [URL del repositorio].
+
+2-Crea una nueva rama a partir de la rama principal utilizando el comando git checkout -b [nombre-de-la-rama].
+
+3-Realiza tus cambios y mejoras en tu rama local.
+
+4-Una vez que hayas completado tus cambios, realiza commits regulares y descriptivos utilizando el comando git commit -m "Mensaje descriptivo".
+
+5-Sube tu rama a la plataforma de alojamiento del repositorio (por ejemplo, GitHub) utilizando el comando git push origin [nombre-de-la-rama].
+
+6-Abre una solicitud de extracción (pull request) en el repositorio principal para que tus cambios sean revisados y fusionados con la rama principal.
 
 Recuerda que, al contribuir al proyecto, estarás sujeto a la licencia de código abierto seleccionada para este proyecto y tu trabajo se realizará de manera voluntaria y no remunerada.
 
