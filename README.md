@@ -3,7 +3,7 @@
 Descripción
 Este proyecto tiene como objetivo reunir a la comunidad de desarrolladores y crear la siguiente generación de la famosa aplicación de Pokémon. La idea es aprovechar el conocimiento colectivo y la pasión por Pokémon para desarrollar una aplicación innovadora que ofrezca nuevas características y experiencias a los jugadores.
 
-Normas y Pautas
+#Normas y Pautas
 
 Para garantizar un desarrollo colaborativo y efectivo, es importante seguir las siguientes normas y pautas:
 
@@ -20,6 +20,12 @@ Para garantizar un desarrollo colaborativo y efectivo, es importante seguir las 
 6-Revisiones de código: Antes de fusionar cualquier cambio en la rama principal, se realizarán revisiones de código para garantizar la calidad y consistencia del código. Todos los miembros del equipo son alentados a participar en las revisiones y ofrecer sugerencias constructivas.
 
 7-Pruebas y calidad del código: Se deben realizar pruebas exhaustivas para garantizar que el código funcione correctamente y cumpla con los requisitos establecidos. Además, se debe mantener un alto estándar de calidad del código, siguiendo las buenas prácticas de programación y aplicando patrones de diseño cuando corresponda.
+
+8.Revisiones de código: Antes de fusionar cualquier cambio en la rama principal, se realizarán revisiones de código para garantizar la calidad y consistencia del código. Todos los miembros del equipo son alentados a participar en las revisiones y ofrecer sugerencias constructivas.
+
+9-Pruebas y calidad del código: Se deben realizar pruebas exhaustivas para garantizar que el código funcione correctamente y cumpla con los requisitos establecidos. Además, se debe mantener un alto estándar de calidad del código, siguiendo las buenas prácticas de programación y aplicando patrones de diseño cuando corresponda.
+
+10-Fusiones en la rama principal: Una vez que los cambios en una rama individual hayan sido revisados y aprobados, se pueden fusionar con la rama principal. Sin embargo, es importante evitar fusionar directamente en la rama principal y en su lugar, hacerlo a través de la rama de desarrollo (por ejemplo, "develop") para permitir una mayor coordinación y pruebas adicionales antes de la implementación final.
 
 #Contribución
 
